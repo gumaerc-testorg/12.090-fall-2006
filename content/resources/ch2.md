@@ -2,8 +2,12 @@
 content_type: resource
 description: 'Lecture notes on Chapter 2: Flow Past a Sphere I: Dimensional Analysis,
   Reynolds Numbers, and Froude Numbers.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/81c03e112bc28f5a0e765b19ac0e03c3_ch2.pdf
+file: /media/courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/81c03e112bc28f5a0e765b19ac0e03c3_ch2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Course Textbook
+parent_type: CourseSection
 resourcetype: Document
 title: ch2.pdf
 uid: 81c03e11-2bc2-8f5a-0e76-5b19ac0e03c3
