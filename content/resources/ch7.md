@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Course Textbook
 parent_type: CourseSection
+parent_uid: 458e02b7-92d1-4fd1-189b-e8cb2d6d4f4a
 resourcetype: Document
 title: ch7.pdf
 uid: 02d4e659-d322-cdc8-b566-d9c3c76453c6

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Course Textbook
 parent_type: CourseSection
+parent_uid: 458e02b7-92d1-4fd1-189b-e8cb2d6d4f4a
 resourcetype: Document
 title: ch3.pdf
 uid: 7841d9b1-681d-6748-fa2f-5cbc6d6f1cb2
