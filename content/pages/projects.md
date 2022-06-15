@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the term paper required for the
+  course and a list of example paper topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
