@@ -5,6 +5,7 @@ description: 'Lecture notes on Chapter 7: Flow in Rotating Environments, Playing
   Inertia Currents, the Ekman Spiral, Geostrophic Motion, Ekman Layers, and Planetary
   Boundary Layers: The Ekman Layer, The Logarithmic Layer, and The Mixed Layer.'
 file: /courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/02d4e659d322cdc8b566d9c3c76453c6_ch7.pdf
+file_size: 1030997
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
