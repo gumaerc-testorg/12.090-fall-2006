@@ -5,6 +5,7 @@ description: 'Lecture notes on Chapter 9: Threshold of Movement, Forces on Bed P
   Recasting the Shields Diagram, the Hjulstrom Diagram, and the Effect of Density
   Ratio.'
 file: /courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/d74323848b9c8594ddc3f25d222ef361_ch9.pdf
+file_size: 619246
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
