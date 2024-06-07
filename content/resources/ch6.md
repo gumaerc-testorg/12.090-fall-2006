@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes on Chapter 6: Oscillatory Flow, The Nature of Waves, Water
   Motion Due to Waves, Wave Boundary Layers, and Combined Flow (Waves plus Current).'
 file: /courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/a2feced79e03dfae8b58fdf193b85f5a_ch6.pdf
+file_size: 417803
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
