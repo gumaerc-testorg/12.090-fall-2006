@@ -5,7 +5,7 @@ description: 'Lecture notes on Chapter 4: Flow in Pipes and Channels, Laminar Fl
   Closure Problem, Structure of Turbulent Boundary Layers, Flow Resistance, Velocity
   Profiles, and more on the Structure of Turbulent Boundary Layers: Coherent Structures
   in Turbulent Shear Flow.'
-file: /ol-ocw-studio-app/courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/72c0d3ee9656652db67315787b47c7a8_ch4.pdf
+file: /courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/72c0d3ee9656652db67315787b47c7a8_ch4.pdf
 file_size: 1657187
 file_type: application/pdf
 learning_resource_types: []
