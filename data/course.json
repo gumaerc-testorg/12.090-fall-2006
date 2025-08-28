@@ -50,10 +50,11 @@
   },
   "learning_resource_types": [
     "Projects",
-    "Online Textbook",
+    "Open Textbooks",
     "Written Assignments"
   ],
   "site_uid": "066f24ee-9f3f-45e1-8d48-59cf30c5509a",
   "site_short_id": "12.090-fall-2006",
+  "site_url_path": "courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006",
   "title": "Course Metadata"
 }
