@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Chapter 8: Sediments, Variables, and Flumes, Hydrodynamic
   Perspective, Particle Motions Vs. Turbulence, and Observing Sediment Transport.'
-file: /courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/bdaaea00bda454556e6dbe9f790d0d14_ch8.pdf
+file: /ol-ocw-studio-app/courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/bdaaea00bda454556e6dbe9f790d0d14_ch8.pdf
 file_size: 585447
 file_type: application/pdf
 learning_resource_types: []
